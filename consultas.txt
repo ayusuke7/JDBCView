@@ -1,0 +1,1 @@
+consulta1#SELECT * FROM ARTISTA
