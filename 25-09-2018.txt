@@ -1,0 +1,18 @@
+ 22:00:55 - D:\Documents\NetBeansProjects\JAVASE\JDBView (Acesso negado)
+ 22:03:50 - UCAExc:::4.0.2 invalid schema name: PG_CATALOG
+ 22:16:36 - D:\Documents\NetBeansProjects\JAVASE\JDBView (Acesso negado)
+ 22:39:33 - Table 'bd_sistemapdv.artista' doesn't exist
+ 22:41:54 - UCAExc:::4.0.2 invalid schema name: PG_CATALOG
+ 22:47:24 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
+ 22:50:44 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
+ 22:59:16 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
+ 23:08:24 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
+ 23:08:34 - 25/09/2018 23:08:17 >> 3 conexões encontradas
+25/09/2018 23:08:24 >> CONEXÃO msaccess REALIZADA
+25/09/2018 23:08:30 >> CONEXÃO mysql REALIZADA
+25/09/2018 23:08:30 >> 11 TABELAS LISTADAS
+ 23:15:29 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
+ 23:35:12 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
+23:47:47 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
+23:57:07 - LOOK AND FEEL - com.sun.java.swing.plaf.hifilookandfeel.HiFiLookAndFeelLookAndFeel
+23:57:22 - LOOK AND FEEL - com.sun.java.swing.plaf.hifi.HiFiLookAndFeelLookAndFeel
