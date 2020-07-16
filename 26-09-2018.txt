@@ -1,5 +1,0 @@
-00:07:29 - LOOK AND FEEL - com.jtattoo.plaf.aero.AerolLookAndFeel
-00:07:44 - UCAExc:::4.0.2 user lacks privilege or object not found: MSYSOBJECTS
-00:21:05 - Table 'bd_sistemapdv.fornecedores' doesn't exist
-00:45:00 - LOOK AND FEEL - com.jtattoo.plaf.noire.NoirelLookAndFeel
-00:50:15 - D:\Documents\NetBeansProjects\JAVASE\JDBView (Acesso negado)

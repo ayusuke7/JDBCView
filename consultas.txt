@@ -1,2 +1,0 @@
-consulta2#SELECT * FROM tbla_caixas
-consulta3#SELECT * FROM fornecedores
